@@ -68,7 +68,6 @@ new_coeflist = calculate_coeff(new_matrix, salary_list)
 y = calculate_predictions(new_matrix, new_coeflist)
 print(calculate_mean_square_error(y, salary_list))
 
-print("======")
 
 
 

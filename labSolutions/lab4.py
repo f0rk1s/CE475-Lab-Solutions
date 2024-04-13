@@ -90,7 +90,3 @@ plt.xlabel("Data point no.")
 plt.title("LOOCV: MSE Comparison")
 plt.legend()
 plt.show()
-
-
-
-print("======")
